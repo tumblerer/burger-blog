@@ -1,0 +1,19 @@
+/*
+Theme Name:     Burger Binder
+Theme URI:      http://toryory.com/
+Description:    Child theme of thematic - burger binder 
+Author:         Christopher Tory
+Author URI:     http://toryory.co.uk
+Template:       thematic
+Version:        0.1
+*/
+
+@import url("../thematic/style.css");
+
+body {
+background-image:url('img/eggshell.jpg');
+}
+
+header {
+background-color:white;
+}
