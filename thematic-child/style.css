@@ -10,10 +10,16 @@ Version:        0.1
 
 @import url("../thematic/style.css");
 
-body {
+#main{
 background-image:url('img/eggshell.jpg');
 }
 
-header {
+#header{
 background-color:white;
+}
+#branding{
+background-image:url('img/burger_binder.png');
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-position: center top;
 }
